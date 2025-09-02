@@ -1,0 +1,61 @@
+CS5187: Advanced Machine Learning
+
+Course Description:
+This course provides an in-depth study of advanced machine learning techniques and their applications. Students will explore cutting-edge algorithms, deep learning architectures, and practical implementation strategies. The course emphasizes both theoretical foundations and hands-on experience with real-world datasets.
+
+Learning Objectives:
+- Master advanced machine learning algorithms and techniques
+- Understand deep learning architectures including CNNs, RNNs, and Transformers
+- Implement machine learning solutions using modern frameworks
+- Analyze and evaluate model performance using appropriate metrics
+- Apply machine learning techniques to solve complex real-world problems
+- Understand ethical considerations in AI and machine learning
+
+Topics:
+1. Advanced Neural Networks
+2. Convolutional Neural Networks (CNNs)
+3. Recurrent Neural Networks (RNNs) and LSTMs
+4. Transformer Architecture and Attention Mechanisms
+5. Generative Adversarial Networks (GANs)
+6. Reinforcement Learning
+7. Transfer Learning and Fine-tuning
+8. Model Optimization and Regularization
+9. Explainable AI and Interpretability
+10. Ethics in AI and Bias Mitigation
+
+Prerequisites:
+- CS3001: Data Structures and Algorithms
+- CS3002: Introduction to Machine Learning
+- MATH2001: Linear Algebra
+- MATH2002: Probability and Statistics
+- Programming experience in Python
+
+Assessment:
+- Programming Assignments: 40%
+- Midterm Examination: 25%
+- Final Project: 30%
+- Class Participation: 5%
+
+Textbooks:
+- "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+- "Pattern Recognition and Machine Learning" by Christopher Bishop
+- "The Elements of Statistical Learning" by Hastie, Tibshirani, and Friedman
+
+Software Requirements:
+- Python 3.8+
+- TensorFlow or PyTorch
+- Jupyter Notebook
+- NumPy, Pandas, Scikit-learn
+
+Course Schedule:
+Week 1-2: Advanced Neural Networks and Backpropagation
+Week 3-4: Convolutional Neural Networks
+Week 5-6: Recurrent Neural Networks and Sequence Models
+Week 7-8: Transformer Architecture and Attention
+Week 9-10: Generative Models and GANs
+Week 11-12: Reinforcement Learning
+Week 13-14: Advanced Topics and Final Projects
+
+Instructor: Dr. Jane Smith
+Office Hours: Tuesday and Thursday, 2:00-4:00 PM
+Email: jane.smith@university.edu
